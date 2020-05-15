@@ -1,3 +1,3 @@
 # gitskills
 
-Creating a new branch is adding branch pointer & changing HEAD pointer.
+Creating a new branch is adding branch pointers and changing HEAD pointer.
